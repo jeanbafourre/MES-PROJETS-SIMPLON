@@ -1,2 +1,2 @@
-# MES-PROJETS-SIMPLON
-Historique de ma formation développeur Web
+# CARTE DE VISITE
+Exercice du premier jour de formation.
